@@ -10,4 +10,4 @@ Plugins and tools for [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr).
 | [Clean Titles](https://github.com/Brxdy22/Dispatcharr-Clean-Titles-Plugin) | Renames VOD movies and series to their official TMDB titles and tidies provider categories |
 | [Teamarr Assistant](https://github.com/Brxdy22/Dispatcharr-Teamarr-Assistant-Plugin) | Tags regional sports networks with their teams and starts Teamarr generations when new streams appear |
 
-M3U Failover, VOD Failover and Gluetun AutoSwitch work together: provider URL failover, account failover for VOD, and VPN exit switching.
+M3U Failover, VOD Failover and Gluetun AutoSwitch work together: provider URL failover, account failover for VOD, and VPN exit switching. Setup guide: [Dispatcharr Failover Stack](https://github.com/Brxdy22/Dispatcharr-Failover-Stack).
