@@ -1,16 +1,13 @@
-## Hi there 👋
+# Brxdy22
 
-<!--
-**Brxdy22/Brxdy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Plugins and tools for [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr).
 
-Here are some ideas to get you started:
+| Project | What it does |
+|---|---|
+| [M3U Failover](https://github.com/Brxdy22/Dispatcharr-M3U-Failover) | Proxy that gives an M3U account several provider URLs and fails over between them. Docker image: [brxdy22/m3u-failover](https://hub.docker.com/r/brxdy22/m3u-failover) |
+| [VOD Failover](https://github.com/Brxdy22/Dispatcharr-VOD-Failover-Plugin) | Retries a failed VOD stream on the next provider account that carries the title |
+| [Gluetun AutoSwitch](https://github.com/Brxdy22/Dispatcharr-Gluetun-AutoSwitch-Plugin) | Moves Gluetun to another VPN exit when streams slow down, VOD is refused or speed tests fail |
+| [Clean Titles](https://github.com/Brxdy22/Dispatcharr-Clean-Titles-Plugin) | Renames VOD movies and series to their official TMDB titles and tidies provider categories |
+| [Teamarr Assistant](https://github.com/Brxdy22/Dispatcharr-Teamarr-Assistant-Plugin) | Tags regional sports networks with their teams and starts Teamarr generations when new streams appear |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+M3U Failover, VOD Failover and Gluetun AutoSwitch work together: provider URL failover, account failover for VOD, and VPN exit switching.
